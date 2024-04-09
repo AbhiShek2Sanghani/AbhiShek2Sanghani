@@ -1,4 +1,4 @@
-<img align="centre" alt="coding" width="1000" height="300" src="https://github.com/AbhiShek2Sanghani/AbhiShek2Sanghani/blob/main/Abhishek%20Sanghani.png">
+<img align="centre" alt="coding" width="1000" height="300" src="https://github.com/AbhiShek2Sanghani/AbhiShek2Sanghani/blob/main/Abhishek.png">
 
 
 <h1 align="center">Hi 👋, I'm Abhishek Sanghani</h1>
