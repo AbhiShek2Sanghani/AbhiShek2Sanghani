@@ -1,3 +1,6 @@
+<img align="centre" alt="coding" width="1000" height="300" src="https://github.com/AbhiShek2Sanghani/AbhiShek2Sanghani/blob/main/Abhishek%20Sanghani.png">
+
+
 <h1 align="center">Hi 👋, I'm Abhishek Sanghani</h1>
 <h3 align="center">Data Analyst, ML Engineer</h3>
 
