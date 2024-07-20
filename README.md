@@ -18,9 +18,7 @@
 ---
 
 <h3 align="center">🎓 Education</h3>
-<p align="center">
-  📖 2024 - Present | Customer Service Reprasantative <br> @ <i>McDonald's, Glasgow</i>
-</p>
+
 <p align="center">
   📖 2023 - 2024 | Masters in Advanced Computer Science <br> @ <i>Strathclyde University, Glasgow</i>
 </p>
@@ -32,6 +30,9 @@
 
 <h3 align="center">💼 Experience</h3>
 
+<p align="center">
+  👨‍💻 2024 - Present | Customer Service Reprasantative <br> @ <i>McDonald's, Glasgow</i>
+</p>
 <p align="center">
   👨‍💻 2021 - 2022 | Data analyst Intern @ <i>The Spark Foundation</i>
 </p>
